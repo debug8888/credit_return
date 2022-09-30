@@ -22,6 +22,12 @@
 
 ![](img/admin_order.png)
 
+![](img/statis.png)
+
+![](img/money.png)
+
+
+![](img/admin_fee.png)
 
 
 # 需要的联系飞机账号 @ttt88pay 请备注是github看到的,备注具体的系统 ， 此系统是原开发者， 不是二道贩子。 不是二道贩子
